@@ -2,7 +2,7 @@
 
 Youtube tutorial: https://www.youtube.com/watch?v=D9W7AFeJ3kk
 
-Create firebase project
+Create firebase  project
 - Add firebase to your application: choose "Web App" --> APIKey
 - Add Authentication > Emaio / Password > Enable
   - Add user manually: rlu@web.com // 123456
